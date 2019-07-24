@@ -1,1 +1,6 @@
---- n layout: slide n title: Welcome to our second slide! n --- Your text n Use the left arrow to go back!
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
